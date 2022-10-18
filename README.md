@@ -5,9 +5,9 @@
 
   # 🛠 skills 🛠
   - Langeue
-  -- <img src="https://img.shields.io/badge/C-A8B9CC?style=Flat&logo=C&logoColor=A8B9CC"/>
-  -- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  -- <img src="https://img.shields.io/badge/Python-3776AB?style={스타일}&logo=Python&logoColor=3776AB"/>
-  -- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={스타일}&logo=JavaScript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=Flat&logo=C&logoColor=A8B9CC"/>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style={스타일}&logo=Python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={스타일}&logo=JavaScript&logoColor=F7DF1E"/>
   
 </div>
