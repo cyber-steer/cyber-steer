@@ -3,7 +3,7 @@
 
   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 
-   <div align="left">
+   <div>
     # 🛠 skills 🛠
     - Langeue <br>
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
