@@ -2,5 +2,7 @@
 <h2>🏆 Github Profile Trophy</h2></a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=cyber-steer&column=8&theme=gruvbox&no-frame=true"/>
 <br>
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-steer&show_icons=true&theme=highcontrast) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-steer&layout=compact&theme=tokyonight)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cyber-steer&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-steer&layout=compact" />
+</div>
