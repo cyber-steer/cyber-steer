@@ -8,3 +8,12 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cyber-steer&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-steer&layout=compact" />
 </div>
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/cyber-steer/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/cyber-steer/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="cyber-steer's streak" src="https://streak-stats.demolab.com/?user=cyber-steer&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
