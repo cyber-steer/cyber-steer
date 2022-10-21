@@ -17,3 +17,7 @@
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
+
+## 📊 Github stats
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="cyber-steer's Activity Graph" src="https://cyber-steer-activity-graph.herokuapp.com/graph/?username=cyber-steer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
